@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ioctl.h": "c",
+        "simplecomputer.h": "c",
+        "myterm.h": "c",
+        "stdio.h": "c",
+        "limits": "c",
+        "myreadkey.h": "c",
+        "mybigchars.h": "c",
+        "interface.h": "c",
+        "controller.h": "c"
+    }
+}
